@@ -1,0 +1,22 @@
+1. Where can you install Postman?
+[ ] a- Desktop App
+[ ] b- Web Only
+[x] c- Desktop App and Web (Browser)
+
+2. What is the name of the common working area in Postman?
+[ ] a- Environments
+[ ] b- History
+[ ] c- Collections
+[x] d- Workspace
+
+3. Which formats of data can be imported into Postman?
+[ ] a- Monitors and Mock Servers
+[x] b- Collections and Environments
+[ ] c- Collections
+[ ] d- History
+
+4. What in-built feature of Postman can be used to run tests?
+[ ] a- Github
+[ ] b- You can't run tests in Postman
+[x] c- Collection Runner
+[ ] d- Html-extra-report

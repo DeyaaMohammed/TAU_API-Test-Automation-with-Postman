@@ -1,0 +1,16 @@
+1. What is the Postman Public Workspace Network?
+[ ] a- A Postman API network available to premium users who pay to access it.
+[ ] b- A shared workspace to collaborate with your team.
+[x] c- A Postman API network available to everyone for free.
+
+2. Version control practices such as _______ and _____ can be used in Postman.
+[ ] a- Deleting and uploading
+[ ] b- Copying and pasting
+[x] c- Merging and forking
+[ ] d- Importing and exporting
+
+3. How many members can a shared team workspace have in Postman altogether?
+[x] a- Three
+[ ] b- One
+[ ] c- Five
+[ ] d- Team workspaces are a paid feature.

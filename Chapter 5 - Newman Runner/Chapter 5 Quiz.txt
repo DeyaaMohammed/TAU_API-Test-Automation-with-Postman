@@ -1,0 +1,12 @@
+1. What is Newman?
+[ ] a- A Postman monitor
+[x] b- Postman's command line collection runner
+[ ] c- An alternative tool to Postman for creating APIs
+
+2. What is HTML extra?
+[ ] a- A webpage
+[x] b- A HTML reporter for Newman
+
+3. How does a new team member join a team workspace?
+[ ] a- By exporting and Importing code
+[x] b- By email invitation

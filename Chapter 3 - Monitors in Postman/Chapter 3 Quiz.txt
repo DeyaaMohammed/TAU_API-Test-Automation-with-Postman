@@ -1,0 +1,15 @@
+1. The current limit for monitor calls is set to how many per month?
+[x] a- 1000
+[ ] b- There is no limit
+[ ] c- 100
+[ ] d- 500
+
+2. How do you limit the number of tests a Postman monitor runs?
+[x] a- postman.SetNextRequest()
+[ ] b- pm.test()
+[ ] c- run collection runner
+[ ] d- You cannot limit the tests that are run.
+
+3. Do you have to delete the Monitor if you want to stop it running for a period of time?
+[ ] a- Yes
+[x] b- No - you can pause a monitor
